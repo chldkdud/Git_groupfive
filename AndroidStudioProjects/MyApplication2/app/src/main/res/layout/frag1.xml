@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation = "vertical">
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="후기 게시판"
+        android:textSize="10pt"
+        android:textStyle="bold"
+        android:textColor="#000000"/>
+
+    <ImageView
+        android:layout_width="500px"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="220dp"
+        android:src="@drawable/경상대로고" />
+        <!--후기게시판 화면입니다-->
+</LinearLayout>
